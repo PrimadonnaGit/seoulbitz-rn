@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>94891839757-7lv80isc27a1oct8t83n0kqdm53n00n8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.94891839757-7lv80isc27a1oct8t83n0kqdm53n00n8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAx73SxKaZg1q7dwLeXcSRSO33KvX7Lj6Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>94891839757</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>seoulbitz.expo.googlesignin</string>
+	<key>PROJECT_ID</key>
+	<string>seoulbitz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>seoulbitz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:94891839757:ios:d95f8dfe449bebde482044</string>
+	<key>DATABASE_URL</key>
+	<string>https://seoulbitz.firebaseio.com</string>
+</dict>
+</plist>
