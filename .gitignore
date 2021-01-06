@@ -9,5 +9,7 @@ npm-debug.*
 *.orig.*
 web-build/
 
+GoogleService-Info.plist
+
 # macOS
 .DS_Store
